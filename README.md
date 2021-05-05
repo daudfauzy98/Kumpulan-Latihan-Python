@@ -1,6 +1,6 @@
 # Tes Pemrograman PT Indonesia Indicator
 
-#### main1.py
+### main1.py
 1. Mengganti angka ke kata dengan ketentuan :
    * Ganti angka yang habis dibagi 3 dengan kata "snap"
    * Ganti angka yang habis dibagi 5 dengan kata "snip"
